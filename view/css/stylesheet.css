@@ -1,0 +1,79 @@
+#general-container{
+	width:100%;
+}
+
+#container{
+	width:90%;
+	margin:15px;
+}
+
+.add{
+	padding:10px;
+	text-align:left;
+	background-color:#C9CACA;
+	width:70%;
+	margin:15px;
+}
+
+#intext{
+	display:inline-block;
+}
+
+#tdinfo{
+	padding:5px;
+}
+
+#table-btn-bottom{
+	width:30%;
+	float:left;
+	margin-bottom:40px;
+	text-align:center;
+	margin-left:200px;
+	margin-top:-40px;
+}
+
+#datGeneral{
+	padding:20px;
+	background-color:#C9CACA;
+}
+
+.info{
+	background-color:#C9CACA;
+	float:left;
+	margin:15px;
+	padding:25px;
+	margin-bottom:100px;
+}
+
+#table-info{
+	width:100%;
+	text-align:center;
+	border:1px solid black;
+	font-size:15px;
+}
+
+#table-result{
+	width:100%;
+	text-align:center;
+	border-collapse:collapse;
+	font-size:15px;
+}
+
+#table-container{
+	text-align:center;
+	float:left;
+	margin:15px;
+	padding:25px;
+}
+
+#banner{
+	margin:0 auto;
+	width:100%;
+	position:relative;
+	-webkit-box-shadow:0 0 20px rgba(0,0,0,0.4);
+	box-shadow:0 0 20px rgba(0,0,0,0.4);
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	background-size:cover;
+}
